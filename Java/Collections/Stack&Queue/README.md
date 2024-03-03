@@ -10,4 +10,4 @@ Queue in the other hand, follows the FILO, this means that the first element you
 
 ![Example](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zKnDkJpL-4GQ36kzrDiODQ.png)
 
-Image by [](https://betterprogramming.pub/stack-vs-queue-55d6ea7b2f4f)
+Image by [Medium](https://betterprogramming.pub/stack-vs-queue-55d6ea7b2f4f)
