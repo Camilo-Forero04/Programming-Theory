@@ -8,6 +8,8 @@ LinkedList está implementada como una lista doblemente enlazada. Lo que signifi
 ### Implementación ArrayList:
 ArrayList está implementada como un arreglo dinámico que puede cambiar de tamaño automáticamente a medida que se agregan o eliminan elementos.
 
+![Ejemplo]("C:\Users\PAVILION\Pictures\Screenshots\ArrayListVsLinkedList.png")
+
 ### Inserción y eliminación DIFERENCIA
 LinkedList es más eficiente en términos de inserción y eliminación de elementos, especialmente cuando se trata de operaciones en el medio de la lista. Esto se debe a que no requiere reorganizar elementos contiguos como lo hace ArrayList.
 
