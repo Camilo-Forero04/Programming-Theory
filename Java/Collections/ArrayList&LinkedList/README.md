@@ -9,6 +9,7 @@ LinkedList está implementada como una lista doblemente enlazada. Lo que signifi
 ArrayList está implementada como un arreglo dinámico que puede cambiar de tamaño automáticamente a medida que se agregan o eliminan elementos.
 
 ![Ejemplo](https://cdn.codegym.cc/images/article/100c27ce-9ff8-447d-b92d-7feabee15a16/original.jpeg)
+
 Fuente de la imagen: [Página de CodeGym](https://codegym.cc/quests/lectures/questsyntax.level08.lecture05)
 
 ### Inserción y eliminación DIFERENCIA
