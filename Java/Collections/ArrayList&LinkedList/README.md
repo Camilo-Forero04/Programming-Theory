@@ -8,8 +8,8 @@ LinkedList está implementada como una lista doblemente enlazada. Lo que signifi
 ### Implementación ArrayList:
 ArrayList está implementada como un arreglo dinámico que puede cambiar de tamaño automáticamente a medida que se agregan o eliminan elementos.
 
-![Ejemplo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodegym.cc%2Fquests%2Flectures%2Fquestsyntax.level08.lecture05&psig=AOvVaw1O9AZwcTu8Kd5y3Bspguu5&ust=1709579361505000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDmscTl2IQDFQAAAAAdAAAAABAJ)
-Fuente de la imagen: [codegym]([URL_del_enlace](https://codegym.cc/quests/lectures/questsyntax.level08.lecture05))
+![Ejemplo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodegym.cc%2Fquests%2Flectures%2Fquestsyntax.level08.lecture05&psig=AOvVaw1O9AZwcTu8Kd5y3Bspguu5&ust=1709579361505000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDmscTl2IQDFQAAAAAdAAAAABAJ](https://cdn.codegym.cc/images/article/100c27ce-9ff8-447d-b92d-7feabee15a16/original.jpeg))
+Fuente de la imagen: [codegym]([[URL_del_enlace](https://codegym.cc/quests/lectures/questsyntax.level08.lecture05)](https://codegym.cc/quests/lectures/questsyntax.level08.lecture05))
 
 ### Inserción y eliminación DIFERENCIA
 LinkedList es más eficiente en términos de inserción y eliminación de elementos, especialmente cuando se trata de operaciones en el medio de la lista. Esto se debe a que no requiere reorganizar elementos contiguos como lo hace ArrayList.
